@@ -1,0 +1,32 @@
+.col-sm-12{
+    background-color:rgb(103, 88, 82) ;
+}
+#mycontainer{
+    background-color:rgb(103, 88, 82) ;
+color: white;
+}
+#row1 h2,h4{
+    padding-top: 3%;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(131, 113, 91);
+}
+#row1 p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-right: 15%;
+    padding-top: 5%;
+    color: gray;
+}
+#row1 img{
+    margin-top: 22%;
+}
+#row2 h2,h4{
+    padding-top: 3%;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(131, 113, 91);
+}
+#row2 p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-right: 15%;
+    padding-top: 5%;
+    color: gray;
+}

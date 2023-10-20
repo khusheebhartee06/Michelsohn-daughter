@@ -1,0 +1,21 @@
+.col-sm-12{
+    background-color:rgb(103, 88, 82) ;
+}
+#mycontainer{
+    background-color:rgb(103, 88, 82) ;
+color: rgb(243, 241, 241);
+}
+h1{
+    padding-top: 3%;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(131, 113, 91);
+}
+.col-lg-12 p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 3%;
+    color: gray;
+}
+h5{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+color: gray;
+}

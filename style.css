@@ -1,0 +1,66 @@
+.col-sm-12{
+    background-color:rgb(103, 88, 82) ;
+}
+#mycontainer{
+    background-color:rgb(103, 88, 82) ;
+color: white;
+}
+#myimg{
+    background-image: url(1house.png);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+background-size: 100%;
+}
+#row1 h1{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(131, 113, 91);
+}
+#row2 h1{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(131, 113, 91);
+}
+#row3 h2{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(131, 113, 91);
+}
+#row4 h1{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(131, 113, 91);
+}
+#row1 p{
+    padding-bottom: 5%;
+    padding-top: 5%;
+    padding-right: 20%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#image1 img{
+    height: 100%;
+    width: 100%;
+}
+#image2 img{
+    height: 65%;
+    width: 100%;
+}
+#row2{
+    background-image: url(5img.webp);
+    width: 100%;
+    height:  100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+background-size: 100%;
+padding-top: 20%;
+    padding-bottom: 17%;
+}
+#row4{
+    background-image: url(lasthomeimage.jpg);
+    width: 100%;
+    height:  100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+background-size: 100%;
+padding-top: 20%;
+    padding-bottom: 20%;
+}
